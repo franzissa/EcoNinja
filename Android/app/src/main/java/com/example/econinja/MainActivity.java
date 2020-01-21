@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void showRegister(View view) {
-        //setContentView(R.layout.activity_challenge);
+        setContentView(R.layout.activity_main_menu);
     }
 }

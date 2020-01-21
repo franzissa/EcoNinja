@@ -22,8 +22,6 @@
     <string name="attachment_summary_off">Only download attachments when manually requested</string>
 
 
-
-
     <string-array name="age_group">
         <item>12-17</item>
         <item>18-24</item>
@@ -36,4 +34,8 @@
         <item>Male</item>
         <item>Female</item>
     </string-array>
+    <string name="title_activity_main_menu">mainMenu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

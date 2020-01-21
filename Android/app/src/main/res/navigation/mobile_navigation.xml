@@ -18,8 +18,18 @@
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
-        android:name="com.example.econinja.ui.notifications.NotificationsFragment"
-        android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_challenge" />
+        android:id="@+id/setting"
+        android:name="com.example.econinja.setting"
+        android:label="fragment_setting"
+        tools:layout="@layout/fragment_setting" />
+    <fragment
+        android:id="@+id/info2"
+        android:name="com.example.econinja.Info"
+        android:label="fragment_info"
+        tools:layout="@layout/fragment_info" />
+    <fragment
+        android:id="@+id/shared"
+        android:name="com.example.econinja.shared"
+        android:label="fragment_shared"
+        tools:layout="@layout/fragment_shared" />
 </navigation>
