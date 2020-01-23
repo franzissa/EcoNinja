@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#65AF58</color>
+    <color name="colorSecondary">#4F9E3F</color>
+    <color name="colorOtherSecondary">#33562B</color>
+    <color name="colorGrey">#232323</color>
+    <color name="textLight">#bbbbbb</color>
+    <color name="textDark">#222222</color>
+    <color name="colorGold">#FFD00D</color>
+    <color name="colorSkin">#FDC886</color>
+    <color name="colorBGgreen">#CEE0AF</color>
+    <color name="colorBGgrey">#FAF5EF</color>
+</resources>
