@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_share"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="Share" />
+    <item
+        android:id="@+id/navigation_challenge"
+        android:icon="@drawable/ic_alarm_black_24dp"
+        android:title="Challenge" />
+    <item
+        android:id="@+id/navigation_info"
+        android:icon="@drawable/ic_info_outline_black_24dp"
+        android:title="Info" />
+    <item
+        android:id="@+id/navigation_reward"
+        android:icon="@drawable/ic_redeem_black_24dp"
+        android:title="Reward" />
+
+</menu>

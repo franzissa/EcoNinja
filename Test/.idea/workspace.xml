@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5710d3ad-92e8-484c-b1a2-09e0cc89ac78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../EcoNinja/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EcoNinja/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EcoNinja/app/src/main/java/com/example/econinja/ui/challenge/ChallengeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EcoNinja/app/src/main/java/com/example/econinja/ui/challenge/ChallengeViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EcoNinja/app/src/main/java/com/example/econinja/ui/info/InfoFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EcoNinja/app/src/main/java/com/example/econinja/ui/info/InfoViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EcoNinja/app/src/main/java/com/example/econinja/ui/reward/RewardFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EcoNinja/app/src/main/java/com/example/econinja/ui/reward/RewardViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EcoNinja/app/src/main/java/com/example/econinja/ui/share/ShareFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EcoNinja/app/src/main/java/com/example/econinja/ui/share/ShareViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EcoNinja/app/src/main/res/layout/fragment_challenge.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EcoNinja/app/src/main/res/layout/fragment_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EcoNinja/app/src/main/res/layout/fragment_reward.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EcoNinja/app/src/main/res/layout/fragment_share.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/androidTest/java/com/example/myapplication4/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/java/com/example/myapplication4/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/java/com/example/myapplication4/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/java/com/example/myapplication4/ui/Setting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/java/com/example/myapplication4/ui/SettingViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/java/com/example/myapplication4/ui/dashboard/DashboardFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/java/com/example/myapplication4/ui/dashboard/DashboardViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/java/com/example/myapplication4/ui/home/HomeFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/java/com/example/myapplication4/ui/home/HomeViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/java/com/example/myapplication4/ui/notifications/NotificationsFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/java/com/example/myapplication4/ui/notifications/NotificationsViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable-v21/ic_account_balance_black_36dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable-v21/ic_check_box_black_36dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable-v21/ic_person_add_black_36dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable-v21/ic_radio_black_36dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable-v21/ic_rowing_black_36dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/facebook.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/ic_account_balance_black_36dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/ic_account_box_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/ic_check_box_black_36dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/ic_favorite_border_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/ic_home_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/ic_input_black_36dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/ic_notifications_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/ic_person_add_black_36dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/ic_radio_black_36dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/ic_rowing_black_36dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/ic_settings_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/ic_today_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/instagram.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/drawable/ninja.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/layout/fragment_dashboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/layout/fragment_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/layout/fragment_notifications.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/layout/setting_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/menu/bottom_nav_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/values/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/app/src/test/java/com/example/myapplication4/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android 2/MyApplication4/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="562" />
+    <option name="y" value="-1571" />
+    <option name="width" value="1946" />
+    <option name="height" value="1653" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5710d3ad-92e8-484c-b1a2-09e0cc89ac78" name="Default Changelist" comment="" />
+      <created>1580063231158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580063231158</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-1088" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info active="true" id="Resources Explorer" visible="true" weight="0.32982087" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+</project>
